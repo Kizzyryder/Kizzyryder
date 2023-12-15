@@ -8,4 +8,5 @@
 Kizzyryder/Kizzyryder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-check my email address
+check my email address! [IMG_20231214_020644_894](https://github.com/Kizzyryder/Kizzyryder/assets/153944191/f70a2ec4-f0a2-4494-8531-db4d43dbb51f)
+ss
